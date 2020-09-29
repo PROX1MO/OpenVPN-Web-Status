@@ -206,6 +206,7 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 14px;
     background-color: #E5EAF0;
+    cursor: default;
 }
 h1 {
     color: green;
@@ -374,6 +375,7 @@ body {
     font-family: Verdana, Arial, Helvetica, sans-serif;
     font-size: 14px;
     background-color: #E5EAF0;
+    cursor: default;
 }
 h1 {
     color: green;
