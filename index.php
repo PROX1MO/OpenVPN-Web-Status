@@ -109,6 +109,7 @@ body {
     background-color: #E5EAF0;
 }
 input {
+	background: #ffffff65;
 	border: 1px solid black;
 	border-radius: 5px;
 }
